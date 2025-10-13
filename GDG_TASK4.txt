@@ -1,0 +1,7 @@
+Hallucination means that when AI gives very wrong answer & try to sound confident. In short hallucination are false but believable statements.
+AI is trained to predict the next word not to know what is true/false. It learn patterns like spellings but no true or false labels.
+There is no harm if model says no to a question ,models are trained so that they receives points on giving answer either it maybe true or false so it is necessary to train by models to give points also whe they don't know answer and say I don't know. 
+
+The ideas in this blog relate closely to my interest in data science & RAG . Understanding how & why AI models hallucinate is important is important for building systems that provide accurate, evidence-based answers. Since RAG combines language models with real data sources, I want to explore how data retrieval can help reduce hallucinations and make AI outputs more reliable.
+
+This topic is important because it shows that even advanced AI models can sound confident yet be wrong. As someone interested in data science and RAG, I’m curious about how real data retrieval can make AI more reliable and factual. Reducing hallucinations is key to building AI systems that people can trust for accurate, data-driven decisions.
